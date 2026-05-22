@@ -75,5 +75,5 @@ IEMOP Market Data (RTD reserve market clearing price)
 https://www.iemop.ph/market-data/rtd-reserve-market-clearing-price/
 
 WESM Compliance Bulletin Official List of Trading Participants and Short Names
-https://www.wesm.ph/downloads/download/TWFya2V0IFJlcG9ydHM=/MjkxNg==
+https://drive.google.com/file/d/1hooHjowigoybkl8zUV7BBdRtKttlSc39/view?usp=sharing
 
